@@ -5,5 +5,5 @@ Official repo for __AnyDesign: Versatile Area Fashion Editing via Mask-Free Diff
 ## Framework
 ![](assets/framework.png)
 ## TODO
-- [ ] Release the code of data extension method.
-- [ ] Release the code of fashion editing method.
+- [ ] Release the code of the data extension method.
+- [ ] Release the code of the fashion editing model.
