@@ -1,5 +1,5 @@
 # AnyDesign
-Official repo for __AnyDesign: Versatile Area Fashion Editing via Mask-Free Diffusion__
+Official repo for [__AnyDesign: Versatile Area Fashion Editing via Mask-Free Diffusion__](https://arxiv.org/abs/2408.11553)
 ## Overview
 ![](assets/cases.png)
 ## Framework
