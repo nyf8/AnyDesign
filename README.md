@@ -5,7 +5,8 @@ Official repo for [__AnyDesign: Versatile Area Fashion Editing via Mask-Free Dif
 ## Framework
 ![](assets/framework.png)
 ## FGA Module
-![attention](https://github.com/user-attachments/assets/1b8b513e-e040-4750-851e-29a191c610a7)
-## TODO
+
+## TODO![attention](https://github.com/user-attachments/assets/1a8b9e8c-bd1f-4e5f-bec0-1bfe5e6f1332)
+
 - [ ] Release the code of the data extension method.
 - [ ] Release the code of the fashion editing model.
